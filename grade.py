@@ -1,12 +1,4 @@
-"""Grader for the rebuild.
 
-    python grade.py                      grades rebuild/validate.py
-    python grade.py path/to/validate.py  grades another copy
-
-For every milestone it runs YOUR checks on the test files and compares the
-findings with the expected ones in tests/expected.json. It prints a score.
-It does not show you the reference code.
-"""
 import importlib.util
 import json
 import sys
