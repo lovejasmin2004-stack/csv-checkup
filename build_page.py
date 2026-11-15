@@ -1,10 +1,6 @@
 """Copies validate.py and the example CSV into index.html, so the page also
-works when it is opened by double-clicking (no web server needed).
+works when it is opened by double-clicking."""
 
-Run this after changing validate.py:
-
-    python build_page.py
-"""
 import json
 import re
 from pathlib import Path
