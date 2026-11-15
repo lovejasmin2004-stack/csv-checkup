@@ -1,8 +1,6 @@
 # csv-checkup
 
-Point it at any CSV file and it reports the data-quality problems in it. No setup, and no rules to write first.
-
-It was built for the first ten minutes of any data-cleaning job: finding out what is wrong before touching anything.
+Upload any CSV file and it'll report the data-quality problems in it. Built for quick analysis for common errors for data cleaning.
 
 ## What it checks
 
@@ -18,11 +16,7 @@ It was built for the first ten minutes of any data-cleaning job: finding out wha
 | `outlier` | Numbers far outside the rest of their column |
 | `mixed_dates` | More than one date format in a column |
 
-No check refers to a column by name, so the tool works on files it has never seen.
-
-## Run it
-
-Needs Python 3.10 or later and Pandas.
+To run it you'll need Python 3.10 or later and Pandas.
 
 ```
 python -m pip install pandas
@@ -30,21 +24,13 @@ python validate.py yourfile.csv
 python validate.py yourfile.csv --csv report.csv
 ```
 
-The input file is never changed. The tool only reports.
-
-## Try it in the browser
-
 `index.html` runs the same checks in a web page. The file you drop in is read inside your own browser tab and is not uploaded anywhere.
 
-To run the page locally on Windows, double-click `run_demo.bat`. On other systems:
-
-```
-python -m http.server 8000
-```
-
+To run the page locally on Windows, double-click `run_demo.bat`.
+On other systems:
+```python -m http.server 8000```
 Then open `http://localhost:8000/index.html`.
 
-The page also works when opened directly as a file, because it carries its own copy of the checks and the example data. After changing `validate.py`, run `python build_page.py` to refresh that copy.
 
 ## Result on a real dataset
 
@@ -61,25 +47,15 @@ Test file: *Kenya – Kisumu county Crop production Data 2014–2016*, 408 rows 
 
 22 findings in total, covering 998 cells. On a tidy control file (`tests/clean.csv`) it reports nothing.
 
-## What it does not do
+## Notes
 
-- It does not decide which spelling of a label is correct. It reports that they disagree.
-- An outlier is a value to look at, not an error. Large maize stocks after harvest are real.
-- It does not catch near-miss typos such as `Harvested` and `Harvesyed`.
-- It knows nothing about the subject. It cannot tell that a yield of 45 t/ha is implausible for sorghum; that needs dataset-specific rules.
-
-## Tests
-
-`grade.py` runs the checks on four files and compares the findings with a stored answer key.
-
-```
-python grade.py validate.py
-```
-
-## What I learned
-
-*(Rewrite this section in your own words after the rebuild.)*
+- It does not decide which spelling of a label is correct.
+- An outlier may not always be an error if large yields occur.
+- It does not catch near-miss typos such as `Harvested` and `Harvesyed` so that data needs to be checked manually.
 
 ## Data credit
 
 Kenya – Kisumu county Crop production Data 2014–2016. Source: Kenya National Bureau of Statistics, published by the Kenya Open Data Initiative on the Humanitarian Data Exchange. Licence: Creative Commons Attribution (CC BY).
+
+Created with AI Assistance
+Anthropic - Claude Fable 5.1
