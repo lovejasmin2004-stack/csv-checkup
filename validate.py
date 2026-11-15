@@ -1,20 +1,16 @@
-"""csv-checkup: point it at ANY csv file and it reports data-quality problems.
+"""csv-checkup: Reports data-quality problems.
 
     python validate.py some_file.csv
     python validate.py some_file.csv --csv report.csv     (also save the report)
-
-No check mentions a column by name, so it works on files it has never seen.
-It never changes the input file. It only reports.
 """
 import re
 import sys
 
 import pandas as pd
 
-# Words people type when they mean "no value"
+
 PLACEHOLDERS = {"n/a", "na", "nan", "nil", "null", "none", "-", "--", "?"}
 
-# Shapes a date can take. Each cell is matched against these in order.
 DATE_SHAPES = {
     "YYYY-MM-DD": r"\d{4}-\d{1,2}-\d{1,2}",
     "DD.MM.YYYY": r"\d{1,2}\.\d{1,2}\.\d{4}",
