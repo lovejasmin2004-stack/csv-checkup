@@ -1,0 +1,409 @@
+COUNTY,DATE,COMMODITY TYPE,HOUSE HOLD STOCK(Tonnes),PRODUCTION ESTIMATES( Tonnes),MILLERS(Tonnes),TRADERS( Tonnes),NATIONAL CEREALS PRODUCE BOARD( Tonnes),CROP STAGE,CROP CONDITIONS,REMARKS
+Kisumu,Oct-2016, Maize       ,4401,9135,4500,10312,0,Germination and weeding,Poor due to prolonged drought,Drought made planting to be haulted by most farmers
+Kisumu,Oct-2016, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2016, Rice        ,245,130,2607,846,0,"booting, vegetative",Poor due to prolonged drought,Doing   well  with irrigation and. Computation of stocks held by NCPB is done at national level. 
+Kisumu,Oct-2016, Beans       ,406,520,0,2611,0,Germination and weeding,Poor due to prolonged drought,Drought made planting to be haulted by most farmers
+Kisumu,Oct-2016, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2016, Sorghum     ,382,139,0,488,0,Germination and weeding,Poor due to prolonged drought,Drought made planting to be haulted by most farmers
+Kisumu,Oct-2016, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2016, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2016, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2016, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2016, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2016, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2016, Maize       ,6286,9346,4500,10706,0,Completed harvesting,Affecteted by a three weeks drought,N/A
+Kisumu,Sep-2016, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2016, Rice        ,288,4240,3256,823,0,Vegatative,Good,Doing   well  with irrigation and. Computation of stocks held by NCPB is done at national level. 
+Kisumu,Sep-2016, Beans       ,607,4231,0,2907,0,Completed harvesting,Poor,Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level
+Kisumu,Sep-2016, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2016, Sorghum     ,750,4020,0,371,0,Completed harvesting,Poor,Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level
+Kisumu,Sep-2016, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2016, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2016, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2016, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2016, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2016, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2016, Maize       ,4418,9346,4500,9893,0,Harvesting,Affecteted by a three weeks drought,Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level. Harvesting continues
+Kisumu,Aug-2016, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2016, Rice        ,344,7440,4192,1227,0,Vegatative,Good,Doing   well  with irrigation and. Computation of stocks held by NCPB is done at national level. 
+Kisumu,Aug-2016, Beans       ,665,4231,0,2574,0,Harvesting,Poor,Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level
+Kisumu,Aug-2016, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2016, Sorghum     ,788,4020,0,806,0,Harvesting,Poor,Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level
+Kisumu,Aug-2016, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2016, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2016, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2016, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2016, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2016, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jul-2016, Maize       ,2166,9346,4500,10781,0,Maturing,Affecteted by a three weeks drought,Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level
+Kisumu,Jul-2016, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jul-2016, Rice        ,673,5760,1311,4857,0,Transplanting,Good,Doing   well  with irrigation and land preparation on-going with enhanced rainfall. Computation of stocks held by NCPB is done at national level
+Kisumu,Jul-2016, Beans       ,458,4231,0,2427,0,Maturing,Poor,Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level
+Kisumu,Jul-2016, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jul-2016, Sorghum     ,281,4020,0,675,0,Maturing,poor,Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level
+Kisumu,Jul-2016, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jul-2016, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jul-2016, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jul-2016, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jul-2016, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jul-2016, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jun-2016, Maize       ,2261,46728,4500,12039,0,Silking and tasseling,Affecteted by a three weeks drought, Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level
+Kisumu,Jun-2016, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jun-2016, Rice        ,1768,4240,6623,2990,0,"Land preparation , nursery establishment and Harvesting",partial birds damage,Doing   well  with irrigation and land preparation on-going with enhanced rainfall. Computation of stocks held by NCPB is done at national level
+Kisumu,Jun-2016, Beans       ,77,8463,0,2664,0,Podding and flowering,fairly good due to bad weather,Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level
+Kisumu,Jun-2016, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jun-2016, Sorghum     ,212,10050,0,554,0,Booting,fairly good due to bad weather,Drought set in at critical stages of growth . Computation of stocks held by NCPB is done at national level
+Kisumu,Jun-2016, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jun-2016, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jun-2016, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jun-2016, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jun-2016, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jun-2016, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,May-2016, Maize       ,3782,84960,4950,7765,0, Knee high(vegetative),Good,Planting and weeding . Computation of stocks held by NCPB is done at national level
+Kisumu,May-2016, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,May-2016, Rice        ,748,1400,7827,1310,0,"Land preparation , nursery establishment and Harvesting",,Doing   well  with irrigation and land preparation on-going with enhanced rainfall. Computation of stocks held by NCPB is done at national level
+Kisumu,May-2016, Beans       ,113,15386,0,1496,0,Weeding (vegetative),good condition,Doing  well due to enhanced rainfall. Computation of stocks held by NCPB is done at national level
+Kisumu,May-2016, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,May-2016, Sorghum     ,437,18272,0,535,0,Weeding (knee high),Good condition,The county government and CARD-KAVES gave seeds for planting . Computation of stocks held by NCPB is done at national level
+Kisumu,May-2016, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,May-2016, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,May-2016, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,May-2016, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,May-2016, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,May-2016, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2015, Millet      ,0,0,0,0,0,No Crop,N/A,N/A
+Kisumu,Apr-2016, Maize       ,3782,0,4950,7765,0,Germination and knee high(vegetative),Good,"Land preparation, planting and weeding . Computation of stocks held by NCPB is done at national level"
+Kisumu,Apr-2016, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Apr-2016, Rice        ,1178,0,7932,2567,0,Land preparation and Harvesting,Good,Done  well with with irrigation and land preparation on-going with enhanced rainfall. Computation of stocks held by NCPB is done at national level
+Kisumu,Apr-2016, Beans       ,210,0,0,1721,0,Germination (vegetative),Good,Doing  well due to enhanced rainfall. Computation of stocks held by NCPB is done at national level
+Kisumu,Apr-2016, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Apr-2016, Sorghum     ,532,0,0,644,0,Germination,Good,The county government and CARD-KAVES gave seeds for planting . Computation of stocks held by NCPB is done at national level
+Kisumu,Apr-2016, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Apr-2016, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Apr-2016, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Apr-2016, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Apr-2016, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Apr-2016, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Mar-2016, Maize       ,7690,0,3600,8817,0,Land preparation and Harvesting,Nil,Land preparation for long rains continues . Computation of stocks held by NCPB is done at national level
+Kisumu,Mar-2016, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Mar-2016, Rice        ,1491,21500,6062,2585,0,Harvested,good,Done  well with with irrigation and el-nino rains. Computation of stocks held by NCPB is done at national level
+Kisumu,Mar-2016, Beans       ,267,0,0,1368,0,Land preparation and Harvesting,Nil,Did not do well due to too much rainfall. Computation of stocks held by NCPB is done at national level
+Kisumu,Mar-2016, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Mar-2016, Sorghum     ,696,0,0,689,0,Land preparation and Harvesting,Nil,Area under production was low. Computation of stocks held by NCPB is done at national level
+Kisumu,Mar-2016, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Mar-2016, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Mar-2016, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Mar-2016, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Mar-2016, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Mar-2016, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Feb-2016, Maize       ,15136,18488,4029,11691,0,Harvested,Fairly good,Average yield . Computation of stocks held by NCPB is done at national level
+Kisumu,Feb-2016, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Feb-2016, Rice        ,1254,18813,5869,1947,0,Harvested,Good,Done  well with with irrigation and el-nino rains.Floods affected some parts=10% of the total. Computation of stocks held by NCPB is done at national level
+Kisumu,Feb-2016, Beans       ,982,3312,0,2576,0,Harvesyed,Fair,Did not do well due to too much rainfall. Computation of stocks held by NCPB is done at national level
+Kisumu,Feb-2016, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Feb-2016, Sorghum     ,981,1796,0,958,0,Harvested,Fairly ,Area under production was low. Computation of stocks held by NCPB is done at national level
+Kisumu,Feb-2016, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Feb-2016, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Feb-2016, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Feb-2016, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Feb-2016, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Feb-2016, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jan-2016, Maize       ,8218,6165,5416,16737,0,Early and late vegetative growth and flowering,Good,Expected to do well with el-nino rains. Computation of stocks held by NCPB is done at national level
+Kisumu,Jan-2016, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jan-2016, Rice        ,764,15050,1043,886,0,"Various ;harvesting,transplanting,weeding",Good,Expected to do well with el-nino rains.Floods affected some parts=10% of the total. Computation of stocks held by NCPB is done at national level
+Kisumu,Jan-2016, Beans       ,1097,14299,0,4073,0,Early and late vegetative growth and flowering,Good,Expected to do well with el-nino rains. Computation of stocks held by NCPB is done at national level
+Kisumu,Jan-2016, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jan-2016, Sorghum     ,976,0,0,1286,0,Early and late vegetative growth and flowering,Good,Expected to do well with el-nino rains. Computation of stocks held by NCPB is done at national level
+Kisumu,Jan-2016, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jan-2016, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jan-2016, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jan-2016, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jan-2016, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Jan-2016, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Dec-2015, Maize       ,7402,0,4815,10580,0,Early and late vegetative growth and flowering,Good,Expected to do well with el-nino rains. Computation of stocks held by NCPB is done at national level
+Kisumu,Dec-2015, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Dec-2015, Rice        ,760,12240,996,910,0,"Various ;harvesting,transplanting,weeding",Good,Expected to do well with el-nino rains.Floods affected some parts=10% of the total. Computation of stocks held by NCPB is done at national level
+Kisumu,Dec-2015, Beans       ,833,0,0,3690,0,Early and late vegetative growth and flowering,Good,Expected to do well with el-nino rains. Computation of stocks held by NCPB is done at national level
+Kisumu,Dec-2015, Millet      ,0,0,0,0,0,No Crop,N/A,N/A
+Kisumu,Dec-2015, Sorghum     ,1465,0,0,1197,0,Early and late vegetative growth and flowering,Good,Expected to do well with el-nino rains. Computation of stocks held by NCPB is done at national level
+Kisumu,Dec-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Dec-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Dec-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Dec-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Dec-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Dec-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Nov-2015, Maize       ,9119,0,3690,11773,0,Early and late vegetative growth and flowering,Good,Expected to do well with el-nino rains
+Kisumu,Nov-2015, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Nov-2015, Rice        ,337,315,679,653,0,"Transplanting,weeding, flowering ",Good,"Expected to do well with el-nino rains. However, hail stones and floods affected some parts"
+Kisumu,Nov-2015, Beans       ,296,0,0,3484,0,Early and late vegetative growth and flowering,Good,Expected to do well with el-nino rains
+Kisumu,Nov-2015, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Nov-2015, Sorghum     ,1465,0,0,1197,0,Early and late vegetative growth and flowering,Good,Expected to do well with el-nino rains
+Kisumu,Nov-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Nov-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Nov-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Nov-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Nov-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Nov-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2015, Maize       ,15739,19626,7501,12911,0,Germination and Knee height,Good,Expected to well with el-nino rains
+Kisumu,Oct-2015, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2015, Rice        ,217,9933,420,559,0,Transplanting&weeding ,Good,Expected to well with el-nino rains
+Kisumu,Oct-2015, Beans       ,338,3933,0,3713,0,Germination and weeding,Good,Expected to well with el-nino rains
+Kisumu,Oct-2015, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2015, Sorghum     ,1850,1436,0,1094,0,Germination and weeding,Good,Expected to well with el-nino rains
+Kisumu,Oct-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Oct-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2015, Maize       ,18406,46602,13950,5733,0,Harvested,N/A,Planning to plant short rain crops
+Kisumu,Sep-2015, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2015, Rice        ,49,14130,167,153,0,Weeding,Good,Crops doing very well
+Kisumu,Sep-2015, Beans       ,387,11250,0,2001,0,Harvested,N/A,Planning to plant short rain crops
+Kisumu,Sep-2015, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2015, Sorghum     ,2195,21843,0,686,0,Harvested,N/A,Planning to plant short rain crops
+Kisumu,Sep-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Sep-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2015, Maize       ,21573,46602,13500,4705,0,Harvested,N/A,Actual production was slightly below the projected due to poor distribution of rainfall
+Kisumu,Aug-2015, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2015, Rice        ,107,14130,462,263,0,"Harvested,transplanting, weeding",Good,Slightly above the projected production 
+Kisumu,Aug-2015, Beans       ,661,11250,0,2395,0,Harvested,N/A,Slightly below the projected production 
+Kisumu,Aug-2015, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2015, Sorghum     ,2625,21843,0,428,0,Harvested,N/A,Slightly below the projected production 
+Kisumu,Aug-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu,Aug-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2015, Maize       ,4518,0,585,4296,0,N/A,Good,Various stages. Rainfall has receded both in quantity and amounts. 
+Kisumu.,Jul-2015, Wheat       ,0,0,0,0,0,No Crop,N/A,N/A
+Kisumu.,Jul-2015, Rice        ,15,0,168,18,0,N/A,Good,"Land preparation,transplanting and nursery establishment continue for irrigated rice"
+Kisumu.,Jul-2015, Beans       ,497,0,0,2532,0,N/A,Piecemeal harvesting,about to be harvested
+Kisumu.,Jul-2015, Sorghum     ,720,0,0,729,0,N/A,Piecemeal harvesting,N/A
+Kisumu.,Jul-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2015, Maize       ,1286,0,792,7713,0,N/A,Good,"Coobing,tasseling. Rainfall has resumed after three weeks of dry spell. "
+Kisumu.,Jun-2015, Wheat       ,0,0,0,0,0,No Crop,N/A,N/A
+Kisumu.,Jun-2015, Rice        ,410,0,864,551,0,N/A,Good,"Land preparation,transplanting and nursery establishment for irrigated rice"
+Kisumu.,Jun-2015, Beans       ,158,0,0,1260,0,N/A,Late reproductive stage,About to be harvested
+Kisumu.,Jun-2015, Millet      ,0,0,0,0,0,No Crop,N/A,N/A
+Kisumu.,Jun-2015, Sorghum     ,531,0,0,1057,0,N/A,Late vegetative and early reproductive stages,
+Kisumu.,Jun-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2015, Maize       ,2025,0,1080,3941,0,Early Vegetative State,Good,Flowering
+Kisumu.,May-2015, Wheat       ,0,0,0,0,0,N/A,N/A,Not grown in the county
+Kisumu.,May-2015, Rice        ,656,0,933,898,0,N/A,N/A,Land preparation
+Kisumu.,May-2015, Beans       ,263,0,0,1079,0,Early Vegetative State,,N/A
+Kisumu.,May-2015, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2015, Sorghum     ,1177,0,0,1103,0,Early vegetattive,good,Various stages of vegetation
+Kisumu.,May-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2015, Maize       ,2025,0,1080,3941,0,Early Vegetative State,Good,Maize is at knee high length 
+Kisumu.,Apr-2015, Wheat       ,0,0,0,0,0,N/A,N/A,Not grown in the county
+Kisumu.,Apr-2015, Rice        ,1295,3387,1704,1304,0,Late maturity,Good,Harvesting 
+Kisumu.,Apr-2015, Beans       ,311,0,0,1176,0,Early Vegetative State,,N/A
+Kisumu.,Apr-2015, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2015, Sorghum     ,1177,0,0,1103,0,Early vegetattive,Good,At knee heigh length
+Kisumu.,Apr-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2015, Maize       ,4564,0,1733,2511,0,Germination,Good,Rains came late and farmers are planting
+Kisumu.,Mar-2015, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2015, Rice        ,2133,4516,4725,1491,0,Late maturity,Good,Some have started harvesting the irrigated rice
+Kisumu.,Mar-2015, Beans       ,471,0,0,1208,0,Germination,Good,Rains came late and farmers are planting
+Kisumu.,Mar-2015, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2015, Sorghum     ,166,0,,1034,,Germination,Good,Rains came late and farmers are planting
+Kisumu.,Mar-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2015, Maize       ,5621,0,2700,3074,0,N/A,N/A,Land preparation and rains expected any time
+Kisumu.,Feb-2015, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2015, Rice        ,2565,2258,3915,3722,0,Late maturity,Good,Some have started harvesting the irrigated rice
+Kisumu.,Feb-2015, Beans       ,806,0,0,1199,0,N/A,N/A,Land preparation and rains expected any time
+Kisumu.,Feb-2015, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2015, Sorghum     ,2226,0,0,1097,0,N/A,N/A,Land preparation and rains expected any time
+Kisumu.,Feb-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2015, Maize       ,1180,20324,356,417,0,N/A,N/A,Completion of Short rain crops harvesting
+Kisumu.,Jan-2015, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2015, Rice        ,2291,3387,3317,774,0,N/A,N/A,Harvesting of irrigated rice goes on
+Kisumu.,Jan-2015, Beans       ,1166,581,0,1484,0,No crop,N/A,Harvesting completed last month
+Kisumu.,Jan-2015, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2015, Sorghum     ,3290,5743,0,1632,0,N/A,N/A,Completion of Short rain crops harvesting
+Kisumu.,Jan-2015, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2015, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2015, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2015, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2015, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2015, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Dec-2014, Maize       ,10565,8710,3020,4280,0,Early maturity,Average,Have reached dough stage
+Kisumu.,Dec-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Dec-2014, Rice        ,1854,3387,2982,824,0,Late maturity,Average,Harvesting of irrigated rice
+Kisumu.,Dec-2014, Beans       ,1832,4644,0,1450,0,Late maturity,Average,Harvesting
+Kisumu.,Dec-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Dec-2014, Sorghum     ,4296,2154,0,1488,0,Late maturity,Average,Harvesting started
+Kisumu.,Dec-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Dec-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Dec-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Dec-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Dec-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Dec-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Nov-2014, Maize       ,15080,0,3024,4666,0,Flowering,Average,Average precipitation
+Kisumu.,Nov-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Nov-2014, Rice        ,1260,0,1260,723,0,Early maturity,Average,Irrigated rice 
+Kisumu.,Nov-2014, Beans       ,1030,0,0,1813,0,Early maturity,Average,Pods have assumed their colour
+Kisumu.,Nov-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Nov-2014, Sorghum     ,5648,0,0,1271,0,Early maturing,Average,Precipitation is a challenge
+Kisumu.,Nov-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Nov-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Nov-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Nov-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Nov-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Nov-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Oct-2014, Maize       ,18580,0,2529,2660,4185,Flowering,Good,Poorly distributed rainfall
+Kisumu.,Oct-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Oct-2014, Rice        ,1089,1129,603,423,90,Early maturity flowering,Good,Some have started harvesting 
+Kisumu.,Oct-2014, Beans       ,1490,0,0,1078,162,Flowering,Average,Podding
+Kisumu.,Oct-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Oct-2014, Sorghum     ,647,0,0,12,2,Flowering,Average,Booting
+Kisumu.,Oct-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Oct-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Oct-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Oct-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Oct-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Oct-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Sep-2014, Maize       ,22809,0,2529,2347,4571,Germination,Good,Have just planted
+Kisumu.,Sep-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Sep-2014, Rice        ,771,0,59,540,22,Flowering,Good,Expected to harvest good quantities
+Kisumu.,Sep-2014, Beans       ,2849,0,0,858,180,Germination,Good,Planted recently
+Kisumu.,Sep-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Sep-2014, Sorghum     ,9813,0,0,934,18,Germination,Good,Planted recently
+Kisumu.,Sep-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Sep-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Sep-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Sep-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Sep-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Sep-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Aug-2014, Maize       ,30151,43560,675,2881,4050,Late maturity,Average,Harvesting
+Kisumu.,Aug-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Aug-2014, Rice        ,889,127,758,907,40,Flowering,Good,Doing well
+Kisumu.,Aug-2014, Beans       ,3564,1072,0,672,16,N/A,N/A,Harvest completed last month
+Kisumu.,Aug-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Aug-2014, Sorghum     ,843,18846,0,254,0,Late maturity,Average,Harvest would be below expectations
+Kisumu.,Aug-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Aug-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Aug-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Aug-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Aug-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Aug-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2014, Maize       ,25236,54450,540,2700,2880,Early maturity,Average,Start of harvesting
+Kisumu.,Jul-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2014, Rice        ,765,12659,810,1067,18,Flowering,Good,Irrrigated rice
+Kisumu.,Jul-2014, Beans       ,3825,10717,0,765,19,Late maturity,Average,Harvesting about to complete
+Kisumu.,Jul-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2014, Sorghum     ,455,23558,0,16,0,Early maturity,N/A,Start of harvsting
+Kisumu.,Jul-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jul-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2014, Maize       ,2732,0,1850,7214,3015,Vegetative stage,Average,Rains have sub sided
+Kisumu.,Jun-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2014, Rice        ,401,0,657,666,450,Vegetative stage,Good,Good harvest expected
+Kisumu.,Jun-2014, Beans       ,209,10717,0,723,135,Late matutrity,Average,Harvesting period
+Kisumu.,Jun-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2014, Sorghum     ,399,0,0,290,0,Vegetative stage ,Average,Rains have sub sided
+Kisumu.,Jun-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jun-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2014, Maize       ,168,0,65,194,162,Flowering,Average,Cobbing/ tasselling
+Kisumu.,May-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2014, Rice        ,51,0,68,64,7,Germination,Good,N/A
+Kisumu.,May-2014, Beans       ,20,0,0,97,16,Early maturity,Average,Harvesting
+Kisumu.,May-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2014, Sorghum     ,106,0,0,45,0,Flowering,Good,Booting
+Kisumu.,May-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,May-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Maize       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Rice        ,0,11291,0,0,0,N/A,N/A,N/A
+Kisumu.,Apr-2014, Beans       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Sorghum     ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Apr-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Maize       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Rice        ,0,11291,0,0,0,N/A,N/A,N/A
+Kisumu.,Mar-2014, Beans       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Sorghum     ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Mar-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Maize       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Rice        ,0,11291,0,0,0,N/A,N/A,N/A
+Kisumu.,Feb-2014, Beans       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Sorghum     ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Feb-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2014, Maize       ,0,29034,0,0,0,N/A,N/A,N/A
+Kisumu.,Jan-2014, Wheat       ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2014, Rice        ,0,11291,0,0,0,N/A,N/A,N/A
+Kisumu.,Jan-2014, Beans       ,0,5805,0,0,0,N/A,N/A,N/A
+Kisumu.,Jan-2014, Millet      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2014, Sorghum     ,0,7179,0,0,0,N/A,N/A,N/A
+Kisumu.,Jan-2014, Barley      ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2014, Peas dry    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2014, Chick peas  ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2014, Cow peas    ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2014, Pigeon peas ,0,0,0,0,0,No Crop,No Crop,N/A
+Kisumu.,Jan-2014, Green grams ,0,0,0,0,0,No Crop,No Crop,N/A
